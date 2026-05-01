@@ -4,6 +4,12 @@
 
 Project ini bertujuan untuk menganalisis data penjualan kopi guna memahami pola penjualan, performa produk, serta perilaku pembelian pelanggan. Analisis ini diharapkan dapat memberikan insight yang dapat membantu pengambilan keputusan bisnis berbasis data.
 
+## Disclimer : 
+
+- Saya masih dalam tahap belajar data analis
+- Dataset yang digunakan berasal dari kaggle dan hanya memiliki sedikit data (hanya ada 270 baris data)
+- Saya menggunakan bantuan AI untuk membantu saya berpikir dalam menganalisis data
+
 ---
 
 ## Deskripsi Dataset
